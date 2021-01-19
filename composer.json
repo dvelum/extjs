@@ -1,6 +1,6 @@
 {
   "name": "dvelum/extjs",
-  "version": "6.2.0.2",
+  "version": "7.0.0",
   "type":"js-library",
   "description": "ExtJs library build for DVelum",
   "keywords": ["dvelum"],
